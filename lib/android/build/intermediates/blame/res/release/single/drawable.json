@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\053a11bee9352bb61ea63f8300f9c7f9\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\053a11bee9352bb61ea63f8300f9c7f9\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\053a11bee9352bb61ea63f8300f9c7f9\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\053a11bee9352bb61ea63f8300f9c7f9\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\redbox_top_border_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\118c8a0a980df7c4ae2b9db0112f7cb3\\res\\drawable\\redbox_top_border_background.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\33ff93d066e6ab2302be97a119a1f8fa\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\miguards-mobile\\node_modules\\react-native-maps\\lib\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7808c1a62b6b9b1b2d84e4679f8a0e36\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]
